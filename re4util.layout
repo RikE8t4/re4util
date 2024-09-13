@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\Microsoft\xcompress.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1084" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="include\appsettings.h" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="468" topLine="12" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+		</Folding>
+	</File>
+	<File name="include\scriptini.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="354" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\wstringext.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1539" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="src\stringext.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8988" topLine="17" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="25" />
+			<Collapse line="28" />
+			<Collapse line="31" />
+			<Collapse line="32" />
+			<Collapse line="36" />
+			<Collapse line="39" />
+			<Collapse line="43" />
+			<Collapse line="45" />
+			<Collapse line="50" />
+			<Collapse line="52" />
+			<Collapse line="57" />
+			<Collapse line="70" />
+			<Collapse line="75" />
+			<Collapse line="88" />
+			<Collapse line="94" />
+			<Collapse line="95" />
+			<Collapse line="103" />
+			<Collapse line="117" />
+			<Collapse line="126" />
+			<Collapse line="130" />
+			<Collapse line="139" />
+			<Collapse line="146" />
+			<Collapse line="147" />
+			<Collapse line="168" />
+			<Collapse line="173" />
+			<Collapse line="177" />
+			<Collapse line="182" />
+			<Collapse line="186" />
+			<Collapse line="191" />
+			<Collapse line="195" />
+			<Collapse line="199" />
+			<Collapse line="204" />
+			<Collapse line="208" />
+			<Collapse line="212" />
+			<Collapse line="217" />
+			<Collapse line="220" />
+			<Collapse line="225" />
+			<Collapse line="234" />
+			<Collapse line="236" />
+			<Collapse line="256" />
+			<Collapse line="258" />
+			<Collapse line="259" />
+			<Collapse line="264" />
+			<Collapse line="271" />
+			<Collapse line="283" />
+			<Collapse line="289" />
+			<Collapse line="302" />
+			<Collapse line="305" />
+			<Collapse line="312" />
+			<Collapse line="339" />
+			<Collapse line="347" />
+			<Collapse line="351" />
+			<Collapse line="357" />
+			<Collapse line="358" />
+			<Collapse line="361" />
+		</Folding>
+	</File>
+	<File name="src\fmtLFS.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6757" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="19" />
+			<Collapse line="105" />
+		</Folding>
+	</File>
+	<File name="src\wstringext.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3518" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="5" />
+			<Collapse line="11" />
+			<Collapse line="13" />
+			<Collapse line="18" />
+			<Collapse line="23" />
+			<Collapse line="28" />
+			<Collapse line="32" />
+			<Collapse line="37" />
+			<Collapse line="65" />
+			<Collapse line="68" />
+			<Collapse line="73" />
+			<Collapse line="82" />
+			<Collapse line="84" />
+			<Collapse line="116" />
+			<Collapse line="117" />
+			<Collapse line="125" />
+			<Collapse line="139" />
+			<Collapse line="148" />
+			<Collapse line="152" />
+			<Collapse line="161" />
+			<Collapse line="167" />
+			<Collapse line="171" />
+		</Folding>
+	</File>
+	<File name="src\fmtFIX.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4986" topLine="95" />
+		</Cursor>
+	</File>
+	<File name="include\interface.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="721" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="src\stringenc.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8275" topLine="1" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="8" />
+			<Collapse line="11" />
+			<Collapse line="31" />
+			<Collapse line="45" />
+			<Collapse line="59" />
+			<Collapse line="66" />
+			<Collapse line="68" />
+			<Collapse line="71" />
+			<Collapse line="74" />
+			<Collapse line="85" />
+			<Collapse line="90" />
+			<Collapse line="92" />
+			<Collapse line="110" />
+			<Collapse line="115" />
+			<Collapse line="117" />
+			<Collapse line="135" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14531" topLine="99" />
+		</Cursor>
+		<Folding>
+			<Collapse line="71" />
+			<Collapse line="373" />
+			<Collapse line="481" />
+			<Collapse line="486" />
+			<Collapse line="491" />
+			<Collapse line="496" />
+			<Collapse line="519" />
+			<Collapse line="524" />
+			<Collapse line="540" />
+			<Collapse line="548" />
+			<Collapse line="556" />
+			<Collapse line="565" />
+			<Collapse line="603" />
+			<Collapse line="610" />
+			<Collapse line="626" />
+			<Collapse line="654" />
+			<Collapse line="686" />
+			<Collapse line="697" />
+			<Collapse line="702" />
+			<Collapse line="708" />
+			<Collapse line="739" />
+			<Collapse line="837" />
+			<Collapse line="844" />
+			<Collapse line="897" />
+		</Folding>
+	</File>
+	<File name="include\fmtFIX.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="738" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\stringenc.h" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1641" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="src\icon.rc" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="326" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\scriptini.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="116" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="173" />
+			<Collapse line="190" />
+			<Collapse line="210" />
+			<Collapse line="223" />
+			<Collapse line="236" />
+			<Collapse line="280" />
+			<Collapse line="331" />
+			<Collapse line="379" />
+			<Collapse line="449" />
+			<Collapse line="455" />
+			<Collapse line="474" />
+			<Collapse line="483" />
+			<Collapse line="489" />
+			<Collapse line="501" />
+			<Collapse line="608" />
+		</Folding>
+	</File>
+	<File name="include\filesystem.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1006" topLine="25" />
+		</Cursor>
+	</File>
+	<File name="src\fmtFNT.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1142" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="include\stringext.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4355" topLine="77" />
+		</Cursor>
+	</File>
+	<File name="src\appsettings.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3474" topLine="28" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="38" />
+			<Collapse line="52" />
+			<Collapse line="143" />
+			<Collapse line="150" />
+			<Collapse line="157" />
+		</Folding>
+	</File>
+	<File name="TODO" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="280" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\filesystem.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1419" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="include\fmtLFS.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="344" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\interface.cxx" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="34026" topLine="443" />
+		</Cursor>
+		<Folding>
+			<Collapse line="212" />
+			<Collapse line="909" />
+		</Folding>
+	</File>
+	<File name="include\resource.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="88" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\bytestream.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3377" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="src\bytestream.cpp" open="0" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10508" topLine="310" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,10 @@
+bin/*
+res/*
+bak/*
+lib/*
+obj/*
+forms/*
+doxygen/*
+.vs/*
+msvc.lnk
+desktop.ini

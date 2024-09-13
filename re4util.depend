@@ -1,0 +1,2381 @@
+# depslib dependency file v1.0
+1653194802 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+	"fmtEST.h"
+	"fmtEFF.h"
+	"fmtITA.h"
+	"fmtFCV.h"
+	"fmtETS.h"
+	"fmtSEQ.h"
+	"fmtDAT.h"
+	"fmtFIX.h"
+	"fmtFBX.h"
+	"fmtFNT.h"
+	"fmtUDAS.h"
+	"fmtPACK.h"
+	"fmtAEV.h"
+	"wregistry.h"
+	"stringenc.h"
+	"resource.h"
+	"version.h"
+
+1647924816 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\resource.h
+
+1653140494 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\bytestream.h
+	<iostream>
+	<string>
+	<cmath>
+	<cstdint>
+	<windows.h>
+	<type_traits>
+
+1653015487 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\stringext.h
+	<iostream>
+	<cstdint>
+	<cctype>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<time.h>
+	<shlwapi.h>
+	<Shlobj.h>
+
+1652490707 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\wstringext.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<shlwapi.h>
+	<shlobj.h>
+
+1652063174 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\filesystem.h
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+	"stringext.h"
+	"wstringext.h"
+
+1652599845 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtest.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1652599840 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmteff.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"fmtEST.h"
+	"fmtTPL.h"
+
+1653017272 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmttpl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"vectorext.h"
+	"fmtPACK.h"
+
+1652599849 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtita.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"bytestream.h"
+	"fmtATARI.h"
+
+1652599835 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtatari.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1652599847 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtets.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"bytestream.h"
+	"stringext.h"
+
+1652599837 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtdat.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	<algorithm>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1652999385 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtudas.h
+	<iostream>
+	<cstdint>
+	<string>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"fmtDAT.h"
+
+1653190311 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\bytestream.cpp
+	<cstring>
+	<windows.h>
+	<math.h>
+	"bytestream.h"
+
+1652063173 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\filesystem.cpp
+	"filesystem.h"
+
+1652497748 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtatari.cpp
+	"fmtATARI.h"
+
+1650948902 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtdat.cpp
+	"fmtDAT.h"
+
+1651924892 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtesl.cpp
+	"fmtESL.h"
+
+1652599842 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtesl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1652021566 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtest.cpp
+	"fmtEST.h"
+
+1651897625 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtets.cpp
+	"fmtETS.h"
+
+1651879025 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtita.cpp
+	"fmtITA.h"
+
+1652600781 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtroom.cpp
+	"fmtROOM.h"
+
+1652600313 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtroom.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"bytestream.h"
+
+1653017979 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmttpl.cpp
+	"fmtTPL.h"
+
+1652999759 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtudas.cpp
+	"fmtUDAS.h"
+
+1647924802 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\icon.rc
+
+1652601688 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\stringext.cpp
+	"windows.h"
+	"stringext.h"
+
+1652490726 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\wstringext.cpp
+	"wstringext.h"
+
+1653150432 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtpack.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtPACK_Database.h"
+	"fmtTPL.h"
+
+1652061479 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmteff.cpp
+	"fmtEFF.h"
+
+1653150509 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtpack.cpp
+	"fmtPACK.h"
+
+1652070969 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\registry.cpp
+	"registry.h"
+
+1652070739 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\registry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1652071291 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\wregistry.cpp
+	"wregistry.h"
+
+1652071162 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\wregistry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1652601837 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\stringenc.cpp
+	"stringenc.h"
+
+1652601758 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\stringenc.h
+	<iostream>
+	<cstdint>
+	<string>
+	<windows.h>
+	"stringext.h"
+
+1653020233 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\appsettings.cpp
+	"appsettings.h"
+
+1653019762 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\appsettings.h
+	<iostream>
+	<string>
+	"scriptini.h"
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"wstringext.h"
+	"stringenc.h"
+
+1652599805 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtaev.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+
+1653146158 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\scriptini.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"stringenc.h"
+
+1653165082 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\scriptini.cpp
+	"scriptini.h"
+
+1652601011 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtaev.cpp
+	"fmtAEV.h"
+
+1652927879 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtfcv.cpp
+	"fmtFCV.h"
+
+1652835180 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtfcv.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"vectorext.h"
+
+1653016409 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\vectorext.h
+	<algorithm>
+	<vector>
+
+1653166335 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtfix.cpp
+	"fmtFIX.h"
+
+1653165665 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtfix.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+
+1652927082 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtseq.cpp
+	"fmtSEQ.h"
+
+1652927042 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtseq.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+
+1652926760 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtsym.cpp
+	"fmtSYM.h"
+
+1652926601 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtsym.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+	"vectorext.h"
+
+1653014996 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtfnt.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1653020206 source:g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\src\fmtfnt.cpp
+	"fmtFNT.h"
+
+1653098688 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtpack_database.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1653321431 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\version.h
+
+1653364323 g:\steamlibrary\steamapps\common\resident_evil_4_tools\tools\eff tool (2)\include\fmtfbx.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1668940236 source:c:\users\corey\onedrive\private\github\re4_utility\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"resource.h"
+	"version.h"
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"wregistry.h"
+	"stringenc.h"
+	"vectorext.h"
+	<pthread.h>
+	"fmtATARI.h"
+	"fmtEST.h"
+	"fmtESL.h"
+	"fmtEFF.h"
+	"fmtITA.h"
+	"fmtLFS.h"
+	"fmtFCV.h"
+	"fmtETS.h"
+	"fmtSEQ.h"
+	"fmtDAT.h"
+	"fmtFIX.h"
+	"fmtFNT.h"
+	"fmtUDAS.h"
+	"fmtPACK.h"
+	"fmtAEV.h"
+	"fmtSND.h"
+	"fmtXSB.h"
+	"fmtROOM.h"
+	"fmtXWB.h"
+	"fmtBLK.h"
+	"FL/Fl.H"
+	"interface.h"
+
+1668743632 c:\users\corey\onedrive\private\github\re4_utility\include\appsettings.h
+	<iostream>
+	<string>
+	"scriptini.h"
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"wstringext.h"
+	"stringenc.h"
+	"windows.h"
+	"winreg.h"
+
+1668885399 c:\users\corey\onedrive\private\github\re4_utility\include\scriptini.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"stringenc.h"
+
+1661128062 c:\users\corey\onedrive\private\github\re4_utility\include\bytestream.h
+	<iostream>
+	<string>
+	<cmath>
+	<cstdint>
+	<windows.h>
+	<type_traits>
+
+1652067562 c:\users\corey\onedrive\private\github\re4_utility\include\wregistry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1668864941 c:\users\corey\onedrive\private\github\re4_utility\include\stringext.h
+	<iostream>
+	<cstdint>
+	<cctype>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<time.h>
+	<shlwapi.h>
+	<Shlobj.h>
+
+1668567038 c:\users\corey\onedrive\private\github\re4_utility\include\stringenc.h
+	<iostream>
+	<cstdint>
+	<string>
+	<windows.h>
+	"stringext.h"
+
+1668885399 c:\users\corey\onedrive\private\github\re4_utility\include\wstringext.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<shlwapi.h>
+	<shlobj.h>
+
+1668832078 c:\users\corey\onedrive\private\github\re4_utility\include\filesystem.h
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+	<strings.h>
+	<wchar.h>
+	"stringext.h"
+	"wstringext.h"
+
+1652596235 c:\users\corey\onedrive\private\github\re4_utility\include\fmtatari.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1652596245 c:\users\corey\onedrive\private\github\re4_utility\include\fmtest.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1652596240 c:\users\corey\onedrive\private\github\re4_utility\include\fmteff.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"fmtEST.h"
+	"fmtTPL.h"
+
+1653013672 c:\users\corey\onedrive\private\github\re4_utility\include\fmttpl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"vectorext.h"
+	"fmtPACK.h"
+
+1653012809 c:\users\corey\onedrive\private\github\re4_utility\include\vectorext.h
+	<algorithm>
+	<vector>
+
+1653146832 c:\users\corey\onedrive\private\github\re4_utility\include\fmtpack.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtPACK_Database.h"
+	"fmtTPL.h"
+
+1653095088 c:\users\corey\onedrive\private\github\re4_utility\include\fmtpack_database.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1659672342 c:\users\corey\onedrive\private\github\re4_utility\include\fmtita.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"rapidxml_ext.h"
+	"bytestream.h"
+	"stringext.h"
+	"fmtATARI.h"
+
+1652831580 c:\users\corey\onedrive\private\github\re4_utility\include\fmtfcv.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"vectorext.h"
+
+1659672342 c:\users\corey\onedrive\private\github\re4_utility\include\fmtets.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"rapidxml_ext.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1652923442 c:\users\corey\onedrive\private\github\re4_utility\include\fmtseq.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+
+1652596237 c:\users\corey\onedrive\private\github\re4_utility\include\fmtdat.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	<algorithm>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1668933216 c:\users\corey\onedrive\private\github\re4_utility\include\fmtfix.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"wstringext.h"
+
+1654561890 c:\users\corey\onedrive\private\github\re4_utility\include\fmtfbx.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1653011396 c:\users\corey\onedrive\private\github\re4_utility\include\fmtfnt.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1658833106 c:\users\corey\onedrive\private\github\re4_utility\include\fmtudas.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"fmtDAT.h"
+
+1659067328 c:\users\corey\onedrive\private\github\re4_utility\include\fmtaev.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+
+1668935003 c:\users\corey\onedrive\private\github\re4_utility\include\resource.h
+
+1668888829 c:\users\corey\onedrive\private\github\re4_utility\include\version.h
+
+1668486048 source:c:\users\corey\onedrive\private\github\re4_utility\src\appsettings.cpp
+	"appsettings.h"
+
+1661128245 source:c:\users\corey\onedrive\private\github\re4_utility\src\bytestream.cpp
+	<cstring>
+	<windows.h>
+	<math.h>
+	"bytestream.h"
+
+1668832633 source:c:\users\corey\onedrive\private\github\re4_utility\src\filesystem.cpp
+	"filesystem.h"
+
+1659209007 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtaev.cpp
+	"fmtAEV.h"
+
+1652494148 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtatari.cpp
+	"fmtATARI.h"
+
+1650945302 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtdat.cpp
+	"fmtDAT.h"
+
+1652057879 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmteff.cpp
+	"fmtEFF.h"
+
+1660277614 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtesl.cpp
+	"fmtESL.h"
+
+1660278437 c:\users\corey\onedrive\private\github\re4_utility\include\fmtesl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"rapidxml_ext.h"
+
+1652017966 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtest.cpp
+	"fmtEST.h"
+
+1659672342 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtets.cpp
+	"fmtETS.h"
+
+1659067328 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtfcv.cpp
+	"fmtFCV.h"
+
+1668933450 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtfix.cpp
+	"fmtFIX.h"
+
+1668483050 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtfnt.cpp
+	"fmtFNT.h"
+
+1659672201 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtita.cpp
+	"fmtITA.h"
+
+1653146909 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtpack.cpp
+	"fmtPACK.h"
+
+1660270296 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtroom.cpp
+	"fmtROOM.h"
+
+1660278657 c:\users\corey\onedrive\private\github\re4_utility\include\fmtroom.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"rapidxml_ext.h"
+
+1659065451 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtseq.cpp
+	"fmtSEQ.h"
+
+1652923160 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtsym.cpp
+	"fmtSYM.h"
+
+1652923001 c:\users\corey\onedrive\private\github\re4_utility\include\fmtsym.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+	"vectorext.h"
+
+1659068062 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmttpl.cpp
+	"fmtTPL.h"
+
+1659075611 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtudas.cpp
+	"fmtUDAS.h"
+
+1668935029 source:c:\users\corey\onedrive\private\github\re4_utility\src\icon.rc
+
+1652067369 source:c:\users\corey\onedrive\private\github\re4_utility\src\registry.cpp
+	"registry.h"
+
+1652067139 c:\users\corey\onedrive\private\github\re4_utility\include\registry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1668887655 source:c:\users\corey\onedrive\private\github\re4_utility\src\scriptini.cpp
+	"scriptini.h"
+
+1668566508 source:c:\users\corey\onedrive\private\github\re4_utility\src\stringenc.cpp
+	"stringenc.h"
+
+1668876686 source:c:\users\corey\onedrive\private\github\re4_utility\src\stringext.cpp
+	"windows.h"
+	"stringext.h"
+
+1652067691 source:c:\users\corey\onedrive\private\github\re4_utility\src\wregistry.cpp
+	"wregistry.h"
+
+1668885399 source:c:\users\corey\onedrive\private\github\re4_utility\src\wstringext.cpp
+	"wstringext.h"
+
+1657767323 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtbgmtbl.cpp
+	"fmtBgmTbl.h"
+
+1657767112 c:\users\corey\onedrive\private\github\re4_utility\include\fmtbgmtbl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1660521444 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtblk.cpp
+	"fmtBLK.h"
+
+1660517743 c:\users\corey\onedrive\private\github\re4_utility\include\fmtblk.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+	"rapidxml_ext.h"
+
+1660260229 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtxsb.cpp
+	"fmtXSB.h"
+
+1660278602 c:\users\corey\onedrive\private\github\re4_utility\include\fmtxsb.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"vectorext.h"
+	"filesystem.h"
+
+1658005816 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtdse.cpp
+	"fmtDSE.h"
+
+1659067328 c:\users\corey\onedrive\private\github\re4_utility\include\fmtdse.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1659111426 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtemi.cpp
+	"fmtEMI.h"
+
+1658006360 c:\users\corey\onedrive\private\github\re4_utility\include\fmtemi.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1659491832 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtwav.cpp
+	"fmtWAV.h"
+
+1659493721 c:\users\corey\onedrive\private\github\re4_utility\include\fmtwav.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"vectorext.h"
+	"filesystem.h"
+
+1659492808 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtxwb.cpp
+	"fmtXWB.h"
+
+1660278543 c:\users\corey\onedrive\private\github\re4_utility\include\fmtxwb.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtWAV.h"
+
+1658195165 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtcns.cpp
+	"fmtCNS.h"
+
+1659067328 c:\users\corey\onedrive\private\github\re4_utility\include\fmtcns.h
+	<iostream>
+	<cstdint>
+	<string>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1659065451 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtlit.cpp
+	"fmtLIT.h"
+
+1659067328 c:\users\corey\onedrive\private\github\re4_utility\include\fmtlit.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1659205409 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtsnd.cpp
+	"fmtSND.h"
+
+1659193716 c:\users\corey\onedrive\private\github\re4_utility\include\fmtsnd.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"vectorext.h"
+	"stringext.h"
+	"fmtUDAS.h"
+	"rapidxml_ext.h"
+
+1659111426 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtuwf.cpp
+	"fmtUWF.h"
+
+1659064184 c:\users\corey\onedrive\private\github\re4_utility\include\fmtuwf.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1658194393 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtvib.cpp
+	"fmtVIB.h"
+
+1658195132 c:\users\corey\onedrive\private\github\re4_utility\include\fmtvib.h
+	<iostream>
+	<cstdint>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1659064184 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtxgs.cpp
+	"fmtXGS.h"
+
+1658192654 c:\users\corey\onedrive\private\github\re4_utility\include\fmtxgs.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1658978620 source:c:\users\corey\onedrive\private\github\re4_utility\src\win_esl.cxx
+	"../include/win_esl.h"
+
+1664770982 c:\users\corey\onedrive\private\github\re4_utility\include\win_esl.h
+	<FL/Fl.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Ask.H>
+	<FL/x.H>
+	<FL/Fl_Menu_.H>
+	<FL/Fl_Table.H>
+	<FL/Fl_Int_Input.H>
+	<iostream>
+	<FL/Fl_Draw.H>
+	"resource.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Menu_Bar.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_export.h
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_types.h
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1558958812 c:\users\corey\onedrive\private\github\re4_utility\include\fl\abi-version.h
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_menu_bar.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_table.h
+	<sys/types.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Scroll.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Scrollbar.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_scroll.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_int_input.h
+	"Fl_Input.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551606023 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_table_row.h
+	"Fl_Table.H"
+
+1626634739 c:\users\corey\onedrive\private\github\re4_utility\include\rapidxml\rapidxml_ext.h
+	"rapidxml.hpp"
+	"rapidxml_utils.hpp"
+	"rapidxml_print.hpp"
+
+1242193578 c:\users\corey\onedrive\private\github\re4_utility\include\rapidxml\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1242442162 c:\users\corey\onedrive\private\github\re4_utility\include\rapidxml\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1242442160 c:\users\corey\onedrive\private\github\re4_utility\include\rapidxml\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1668567535 c:\users\corey\onedrive\private\github\re4_utility\include\interface.h
+	<FL/Fl.H>
+	<iostream>
+	<vector>
+	<string>
+	<FL/Fl_Native_File_Chooser.H>
+	<FL/fl_ask.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Multi_Label.H>
+	<FL/FL_Text_Display.H>
+	<FL/Fl_Tree.H>
+	<FL/x.H>
+	<windows.h>
+	<dwmapi.h>
+	"scriptini.h"
+	"appsettings.h"
+	"stringenc.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_Menu_Bar.H>
+	<FL/Fl_Progress.H>
+	<FL/Fl_Text_Display.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_native_file_chooser.h
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<FL/Fl_File_Chooser.H>
+	<FL/filename.H>
+	<FL/Fl_Native_File_Chooser.H>
+	<FL/Fl_Native_File_Chooser.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_file_chooser.h
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<FL/Fl_Group.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Menu_Button.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Preferences.H>
+	<FL/Fl_Tile.H>
+	<FL/Fl_File_Browser.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_File_Input.H>
+	<FL/Fl_Return_Button.H>
+	<FL/fl_ask.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_menu_button.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_tile.h
+	"Fl_Group.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_file_browser.h
+	"Fl_Browser.H"
+	"Fl_File_Icon.H"
+	"filename.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_browser.h
+	"Fl_Browser_.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_browser_.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+	<FL/Fl.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_file_icon.h
+	"Fl.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\filename.h
+	"/usr/include/dirent.h"
+	"Fl_Export.H"
+	<FL/filename.H>
+	<sys/types.h>
+	<direct.h>
+	<sys/types.h>
+	<dirent.h>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_check_button.h
+	"Fl_Light_Button.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_file_input.h
+	<FL/Fl_Input.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_return_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_ask.h
+	"Enumerations.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_progress.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_tree.h
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Scrollbar.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Tree_Item.H>
+	<FL/Fl_Tree_Prefs.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_tree_item.h
+	<FL/Fl.H>
+	<FL/Fl_Widget.H>
+	<FL/Fl_Image.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Tree_Item_Array.H>
+	<FL/Fl_Tree_Prefs.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_tree_item_array.h
+	<FL/Fl.H>
+	"Fl_Export.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_tree_prefs.h
+	<FL/Fl.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_output.h
+	"Fl_Input.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1668567535 source:c:\users\corey\onedrive\private\github\re4_utility\src\interface.cxx
+	"../include/interface.h"
+	"version.h"
+	"resource.h"
+
+1551606023 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_menu.h
+	"Fl_Menu_Item.H"
+
+1551602423 c:\users\corey\onedrive\private\github\re4_utility\include\fl\fl_multi_label.h
+
+1668940161 source:c:\users\corey\onedrive\private\github\re4_utility\src\fmtlfs.cpp
+	"fmtLFS.h"
+
+1668942142 c:\users\corey\onedrive\private\github\re4_utility\include\fmtlfs.h
+	<iostream>
+	<memory>
+	<string>
+	<Windows.h>
+	<stdio.h>
+	<conio.h>
+
+1603358532 c:\users\corey\onedrive\private\github\re4_utility\include\strivexjun\memorymodulepp\memorymodulepp.h
+	<windows.h>
+
+1668940236 source:c:\users\corey\documents\github\re4_utility\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"resource.h"
+	"version.h"
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"wregistry.h"
+	"stringenc.h"
+	"vectorext.h"
+	<pthread.h>
+	"fmtATARI.h"
+	"fmtEST.h"
+	"fmtESL.h"
+	"fmtEFF.h"
+	"fmtITA.h"
+	"fmtLFS.h"
+	"fmtFCV.h"
+	"fmtETS.h"
+	"fmtSEQ.h"
+	"fmtDAT.h"
+	"fmtFIX.h"
+	"fmtFNT.h"
+	"fmtUDAS.h"
+	"fmtPACK.h"
+	"fmtAEV.h"
+	"fmtSND.h"
+	"fmtXSB.h"
+	"fmtROOM.h"
+	"fmtXWB.h"
+	"fmtBLK.h"
+	"FL/Fl.H"
+	"interface.h"
+
+1668975867 c:\users\corey\documents\github\re4_utility\include\resource.h
+
+1668888829 c:\users\corey\documents\github\re4_utility\include\version.h
+
+1668743632 c:\users\corey\documents\github\re4_utility\include\appsettings.h
+	<iostream>
+	<string>
+	"scriptini.h"
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"wstringext.h"
+	"stringenc.h"
+	"windows.h"
+	"winreg.h"
+
+1668885399 c:\users\corey\documents\github\re4_utility\include\scriptini.h
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	"bytestream.h"
+	"wregistry.h"
+	"stringext.h"
+	"stringenc.h"
+
+1661128062 c:\users\corey\documents\github\re4_utility\include\bytestream.h
+	<iostream>
+	<string>
+	<cmath>
+	<cstdint>
+	<windows.h>
+	<type_traits>
+
+1652067562 c:\users\corey\documents\github\re4_utility\include\wregistry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1668864941 c:\users\corey\documents\github\re4_utility\include\stringext.h
+	<iostream>
+	<cstdint>
+	<cctype>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<vector>
+	<windows.h>
+	<time.h>
+	<shlwapi.h>
+	<Shlobj.h>
+
+1668567038 c:\users\corey\documents\github\re4_utility\include\stringenc.h
+	<iostream>
+	<cstdint>
+	<string>
+	<windows.h>
+	"stringext.h"
+
+1668885399 c:\users\corey\documents\github\re4_utility\include\wstringext.h
+	<iostream>
+	<string>
+	<vector>
+	<windows.h>
+	<shlwapi.h>
+	<shlobj.h>
+
+1668832078 c:\users\corey\documents\github\re4_utility\include\filesystem.h
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+	<cstring>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+	<strings.h>
+	<wchar.h>
+	"stringext.h"
+	"wstringext.h"
+
+1653012809 c:\users\corey\documents\github\re4_utility\include\vectorext.h
+	<algorithm>
+	<vector>
+
+1652596235 c:\users\corey\documents\github\re4_utility\include\fmtatari.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1652596245 c:\users\corey\documents\github\re4_utility\include\fmtest.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1660278437 c:\users\corey\documents\github\re4_utility\include\fmtesl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"rapidxml_ext.h"
+
+1626634739 c:\users\corey\documents\github\re4_utility\include\rapidxml\rapidxml_ext.h
+	"rapidxml.hpp"
+	"rapidxml_utils.hpp"
+	"rapidxml_print.hpp"
+
+1242193578 c:\users\corey\documents\github\re4_utility\include\rapidxml\rapidxml.hpp
+	<cstdlib>
+	<cassert>
+	<new>
+	<exception>
+
+1242442162 c:\users\corey\documents\github\re4_utility\include\rapidxml\rapidxml_utils.hpp
+	"rapidxml.hpp"
+	<vector>
+	<string>
+	<fstream>
+	<stdexcept>
+
+1242442160 c:\users\corey\documents\github\re4_utility\include\rapidxml\rapidxml_print.hpp
+	"rapidxml.hpp"
+	<ostream>
+	<iterator>
+
+1652596240 c:\users\corey\documents\github\re4_utility\include\fmteff.h
+	<iostream>
+	<cstdint>
+	<sstream>
+	<string>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"fmtEST.h"
+	"fmtTPL.h"
+
+1653013672 c:\users\corey\documents\github\re4_utility\include\fmttpl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"wstringext.h"
+	"filesystem.h"
+	"vectorext.h"
+	"fmtPACK.h"
+
+1653146832 c:\users\corey\documents\github\re4_utility\include\fmtpack.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtPACK_Database.h"
+	"fmtTPL.h"
+
+1653095088 c:\users\corey\documents\github\re4_utility\include\fmtpack_database.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1659672342 c:\users\corey\documents\github\re4_utility\include\fmtita.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"rapidxml_ext.h"
+	"bytestream.h"
+	"stringext.h"
+	"fmtATARI.h"
+
+1668960414 c:\users\corey\documents\github\re4_utility\include\fmtlfs.h
+	<iostream>
+	<memory>
+	<string>
+	<Windows.h>
+	<stdio.h>
+	<conio.h>
+
+1652831580 c:\users\corey\documents\github\re4_utility\include\fmtfcv.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"vectorext.h"
+
+1659672342 c:\users\corey\documents\github\re4_utility\include\fmtets.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"rapidxml_ext.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1652923442 c:\users\corey\documents\github\re4_utility\include\fmtseq.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+
+1652596237 c:\users\corey\documents\github\re4_utility\include\fmtdat.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	<algorithm>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+
+1668933216 c:\users\corey\documents\github\re4_utility\include\fmtfix.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"wstringext.h"
+
+1653011396 c:\users\corey\documents\github\re4_utility\include\fmtfnt.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"fmtTPL.h"
+
+1658833106 c:\users\corey\documents\github\re4_utility\include\fmtudas.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	<algorithm>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"fmtDAT.h"
+
+1659067328 c:\users\corey\documents\github\re4_utility\include\fmtaev.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+
+1659193716 c:\users\corey\documents\github\re4_utility\include\fmtsnd.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"vectorext.h"
+	"stringext.h"
+	"fmtUDAS.h"
+	"rapidxml_ext.h"
+
+1660278602 c:\users\corey\documents\github\re4_utility\include\fmtxsb.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	<math.h>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"vectorext.h"
+	"filesystem.h"
+
+1660278657 c:\users\corey\documents\github\re4_utility\include\fmtroom.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"bytestream.h"
+	"filesystem.h"
+	"stringext.h"
+	"rapidxml_ext.h"
+
+1660278543 c:\users\corey\documents\github\re4_utility\include\fmtxwb.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtWAV.h"
+
+1659493721 c:\users\corey\documents\github\re4_utility\include\fmtwav.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"vectorext.h"
+	"filesystem.h"
+
+1660517743 c:\users\corey\documents\github\re4_utility\include\fmtblk.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+	"fmtATARI.h"
+	"rapidxml_ext.h"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl.h
+	<FL/Fl_Export.H>
+	<FL/Fl_Cairo.H>
+	"fl_utf8.h"
+	"Enumerations.H"
+	<stdio.h>
+	<FL/Fl.H>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_export.h
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_cairo.h
+	<FL/Fl_Export.H>
+	<cairo.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_utf8.h
+	"Fl_Export.H"
+	"fl_types.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<locale.h>
+	<ctype.h>
+	<wchar.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<X11/Xlocale.h>
+	<X11/Xlib.h>
+	<locale.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_types.h
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\enumerations.h
+	<FL/abi-version.h>
+	"Fl_Export.H"
+	"fl_types.h"
+
+1558958812 c:\users\corey\documents\github\re4_utility\include\fl\abi-version.h
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_window.h
+	<windows.h>
+	"Fl_Group.H"
+	"Fl_Bitmap.H"
+	<stdlib.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_group.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_widget.h
+	"Enumerations.H"
+	<stdint.h>
+	<stddef.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_bitmap.h
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_image.h
+	"Enumerations.H"
+	<stdlib.h>
+
+1668985481 c:\users\corey\documents\github\re4_utility\include\interface.h
+	<FL/Fl.H>
+	<iostream>
+	<vector>
+	<string>
+	<FL/Fl_Native_File_Chooser.H>
+	<FL/fl_ask.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Multi_Label.H>
+	<FL/FL_Text_Display.H>
+	<FL/Fl_Tree.H>
+	<FL/x.H>
+	<windows.h>
+	<dwmapi.h>
+	"scriptini.h"
+	"appsettings.h"
+	"stringenc.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Input.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Text_Display.H>
+	<FL/Fl_Menu_Bar.H>
+	<FL/Fl_Progress.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_native_file_chooser.h
+	<windows.h>
+	<commdlg.h>
+	<shlobj.h>
+	<FL/Fl_File_Chooser.H>
+	<FL/filename.H>
+	<FL/Fl_Native_File_Chooser.H>
+	<FL/Fl_Native_File_Chooser.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_file_chooser.h
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<FL/Fl_Group.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Menu_Button.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Preferences.H>
+	<FL/Fl_Tile.H>
+	<FL/Fl_File_Browser.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Check_Button.H>
+	<FL/Fl_File_Input.H>
+	<FL/Fl_Return_Button.H>
+	<FL/fl_ask.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_double_window.h
+	"Fl_Window.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_choice.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_menu_.h
+	"Fl_Widget.H"
+	"Fl_Menu_Item.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_menu_item.h
+	"Fl_Widget.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_menu_button.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_button.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_preferences.h
+	<stdio.h>
+	"Fl_Export.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_tile.h
+	"Fl_Group.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_file_browser.h
+	"Fl_Browser.H"
+	"Fl_File_Icon.H"
+	"filename.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_browser.h
+	"Fl_Browser_.H"
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_browser_.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+	<FL/Fl.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_scrollbar.h
+	"Fl_Slider.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_slider.h
+	"Fl_Valuator.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_valuator.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_file_icon.h
+	"Fl.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\filename.h
+	"/usr/include/dirent.h"
+	"Fl_Export.H"
+	<FL/filename.H>
+	<sys/types.h>
+	<direct.h>
+	<sys/types.h>
+	<dirent.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_box.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_check_button.h
+	"Fl_Light_Button.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_light_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_file_input.h
+	<FL/Fl_Input.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_input.h
+	"Fl_Input_.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_input_.h
+	"Fl_Widget.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_return_button.h
+	"Fl_Button.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_ask.h
+	"Enumerations.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_multi_label.h
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_text_display.h
+	"fl_draw.H"
+	"Fl_Group.H"
+	"Fl_Widget.H"
+	"Fl_Scrollbar.H"
+	"Fl_Text_Buffer.H"
+	<FL/FL_Text_Display.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_draw.h
+	<FL/x.H>
+	<FL/Enumerations.H>
+	<FL/Fl_Window.H>
+	<FL/Fl_Device.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\x.h
+	"Enumerations.H"
+	"win32.H"
+	"mac.H"
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xatom.h>
+	"Fl_Window.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\win32.h
+	<windows.h>
+	<FL/Fl_Window.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\mac.h
+	<FL/Fl_Widget.H>
+	<ApplicationServices/ApplicationServices.h>
+	"Fl_Window.H"
+	"../src/Fl_Font.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_device.h
+	<FL/x.H>
+	<FL/Fl_Plugin.H>
+	<FL/Fl_Image.H>
+	<FL/Fl_Bitmap.H>
+	<FL/Fl_Pixmap.H>
+	<FL/Fl_RGB_Image.H>
+	<stdlib.h>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_plugin.h
+	"Fl_Preferences.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_pixmap.h
+	"Fl_Image.H"
+	"x.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_rgb_image.h
+	"Fl_Image.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_text_buffer.h
+	<assert.h>
+	"Fl_Export.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_tree.h
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Scrollbar.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Tree_Item.H>
+	<FL/Fl_Tree_Prefs.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_tree_item.h
+	<FL/Fl.H>
+	<FL/Fl_Widget.H>
+	<FL/Fl_Image.H>
+	<FL/fl_draw.H>
+	<FL/Fl_Tree_Item_Array.H>
+	<FL/Fl_Tree_Prefs.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_tree_item_array.h
+	<FL/Fl.H>
+	"Fl_Export.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_tree_prefs.h
+	<FL/Fl.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_menu_bar.h
+	"Fl_Menu_.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_progress.h
+	"Fl_Widget.H"
+
+1668486048 source:c:\users\corey\documents\github\re4_utility\src\appsettings.cpp
+	"appsettings.h"
+
+1661128245 source:c:\users\corey\documents\github\re4_utility\src\bytestream.cpp
+	<cstring>
+	<windows.h>
+	<math.h>
+	"bytestream.h"
+
+1668832633 source:c:\users\corey\documents\github\re4_utility\src\filesystem.cpp
+	"filesystem.h"
+
+1659209007 source:c:\users\corey\documents\github\re4_utility\src\fmtaev.cpp
+	"fmtAEV.h"
+
+1652494148 source:c:\users\corey\documents\github\re4_utility\src\fmtatari.cpp
+	"fmtATARI.h"
+
+1657767323 source:c:\users\corey\documents\github\re4_utility\src\fmtbgmtbl.cpp
+	"fmtBgmTbl.h"
+
+1657767112 c:\users\corey\documents\github\re4_utility\include\fmtbgmtbl.h
+	<iostream>
+	<cstdint>
+	<string>
+	<sstream>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+	"filesystem.h"
+
+1660521444 source:c:\users\corey\documents\github\re4_utility\src\fmtblk.cpp
+	"fmtBLK.h"
+
+1658195165 source:c:\users\corey\documents\github\re4_utility\src\fmtcns.cpp
+	"fmtCNS.h"
+
+1659067328 c:\users\corey\documents\github\re4_utility\include\fmtcns.h
+	<iostream>
+	<cstdint>
+	<string>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1650945302 source:c:\users\corey\documents\github\re4_utility\src\fmtdat.cpp
+	"fmtDAT.h"
+
+1658005816 source:c:\users\corey\documents\github\re4_utility\src\fmtdse.cpp
+	"fmtDSE.h"
+
+1659067328 c:\users\corey\documents\github\re4_utility\include\fmtdse.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1652057879 source:c:\users\corey\documents\github\re4_utility\src\fmteff.cpp
+	"fmtEFF.h"
+
+1659111426 source:c:\users\corey\documents\github\re4_utility\src\fmtemi.cpp
+	"fmtEMI.h"
+
+1658006360 c:\users\corey\documents\github\re4_utility\include\fmtemi.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1660277614 source:c:\users\corey\documents\github\re4_utility\src\fmtesl.cpp
+	"fmtESL.h"
+
+1652017966 source:c:\users\corey\documents\github\re4_utility\src\fmtest.cpp
+	"fmtEST.h"
+
+1659672342 source:c:\users\corey\documents\github\re4_utility\src\fmtets.cpp
+	"fmtETS.h"
+
+1659067328 source:c:\users\corey\documents\github\re4_utility\src\fmtfcv.cpp
+	"fmtFCV.h"
+
+1668933450 source:c:\users\corey\documents\github\re4_utility\src\fmtfix.cpp
+	"fmtFIX.h"
+
+1668483050 source:c:\users\corey\documents\github\re4_utility\src\fmtfnt.cpp
+	"fmtFNT.h"
+
+1659672201 source:c:\users\corey\documents\github\re4_utility\src\fmtita.cpp
+	"fmtITA.h"
+
+1668960416 source:c:\users\corey\documents\github\re4_utility\src\fmtlfs.cpp
+	"fmtLFS.h"
+
+1659065451 source:c:\users\corey\documents\github\re4_utility\src\fmtlit.cpp
+	"fmtLIT.h"
+
+1659067328 c:\users\corey\documents\github\re4_utility\include\fmtlit.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1653146909 source:c:\users\corey\documents\github\re4_utility\src\fmtpack.cpp
+	"fmtPACK.h"
+
+1660270296 source:c:\users\corey\documents\github\re4_utility\src\fmtroom.cpp
+	"fmtROOM.h"
+
+1659065451 source:c:\users\corey\documents\github\re4_utility\src\fmtseq.cpp
+	"fmtSEQ.h"
+
+1659205409 source:c:\users\corey\documents\github\re4_utility\src\fmtsnd.cpp
+	"fmtSND.h"
+
+1652923160 source:c:\users\corey\documents\github\re4_utility\src\fmtsym.cpp
+	"fmtSYM.h"
+
+1652923001 c:\users\corey\documents\github\re4_utility\include\fmtsym.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"filesystem.h"
+	"wstringext.h"
+	"vectorext.h"
+
+1659068062 source:c:\users\corey\documents\github\re4_utility\src\fmttpl.cpp
+	"fmtTPL.h"
+
+1659075611 source:c:\users\corey\documents\github\re4_utility\src\fmtudas.cpp
+	"fmtUDAS.h"
+
+1659111426 source:c:\users\corey\documents\github\re4_utility\src\fmtuwf.cpp
+	"fmtUWF.h"
+
+1659064184 c:\users\corey\documents\github\re4_utility\include\fmtuwf.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1658194393 source:c:\users\corey\documents\github\re4_utility\src\fmtvib.cpp
+	"fmtVIB.h"
+
+1658195132 c:\users\corey\documents\github\re4_utility\include\fmtvib.h
+	<iostream>
+	<cstdint>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+
+1659491832 source:c:\users\corey\documents\github\re4_utility\src\fmtwav.cpp
+	"fmtWAV.h"
+
+1659064184 source:c:\users\corey\documents\github\re4_utility\src\fmtxgs.cpp
+	"fmtXGS.h"
+
+1658192654 c:\users\corey\documents\github\re4_utility\include\fmtxgs.h
+	<iostream>
+	<cstdint>
+	<string>
+	<vector>
+	"appsettings.h"
+	"scriptini.h"
+	"bytestream.h"
+	"stringext.h"
+
+1660260229 source:c:\users\corey\documents\github\re4_utility\src\fmtxsb.cpp
+	"fmtXSB.h"
+
+1659492808 source:c:\users\corey\documents\github\re4_utility\src\fmtxwb.cpp
+	"fmtXWB.h"
+
+1668975856 source:c:\users\corey\documents\github\re4_utility\src\icon.rc
+
+1652067369 source:c:\users\corey\documents\github\re4_utility\src\registry.cpp
+	"registry.h"
+
+1652067139 c:\users\corey\documents\github\re4_utility\include\registry.h
+	<iostream>
+	<string>
+	<windows.h>
+	<shlwapi.h>
+	<tchar.h>
+
+1668887655 source:c:\users\corey\documents\github\re4_utility\src\scriptini.cpp
+	"scriptini.h"
+
+1668566508 source:c:\users\corey\documents\github\re4_utility\src\stringenc.cpp
+	"stringenc.h"
+
+1668876686 source:c:\users\corey\documents\github\re4_utility\src\stringext.cpp
+	"windows.h"
+	"stringext.h"
+
+1658978620 source:c:\users\corey\documents\github\re4_utility\src\win_esl.cxx
+	"../include/win_esl.h"
+
+1664770982 c:\users\corey\documents\github\re4_utility\include\win_esl.h
+	<FL/Fl.H>
+	<FL/Fl_Choice.H>
+	<FL/Fl_Ask.H>
+	<FL/x.H>
+	<FL/Fl_Menu_.H>
+	<FL/Fl_Table.H>
+	<FL/Fl_Int_Input.H>
+	<iostream>
+	<FL/Fl_Draw.H>
+	"resource.h"
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Menu_Bar.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_table.h
+	<sys/types.h>
+	<string.h>
+	<malloc.h>
+	<stdlib.h>
+	<FL/Fl.H>
+	<FL/Fl_Group.H>
+	<FL/Fl_Scroll.H>
+	<FL/Fl_Box.H>
+	<FL/Fl_Scrollbar.H>
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_scroll.h
+	"Fl_Group.H"
+	"Fl_Scrollbar.H"
+
+1551602423 c:\users\corey\documents\github\re4_utility\include\fl\fl_int_input.h
+	"Fl_Input.H"
+
+1652067691 source:c:\users\corey\documents\github\re4_utility\src\wregistry.cpp
+	"wregistry.h"
+
+1668885399 source:c:\users\corey\documents\github\re4_utility\src\wstringext.cpp
+	"wstringext.h"
+
